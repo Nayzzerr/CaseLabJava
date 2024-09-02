@@ -40,9 +40,9 @@ POST http://localhost:8080/api/files/create
 Тело запроса:
 ``` 
 {
-"title": "First file",
-"creationDate": "2024-09-01T12:00:00",
-"description": "Just Example."
+    "title": "First file",
+    "creationDate": "2024-09-01T12:00:00",
+    "description": "Just Example."
 }
 ```
 Ответ:
